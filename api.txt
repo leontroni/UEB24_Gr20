@@ -1,0 +1,59 @@
+api call, funksioni me ba call me
+
+ Nav   | 
+       |Nav resp 
+       |
+Footer |
+ME JAVASCRIPT
+e qelmi nif ile per footer edhe e shneojme footerin per content
+qysh e thirrim eshte e perdorim fetch (edergon ni request ne end point)
+kthehet response 200-mir 404-keq 500-dicka gabim
+data-> kontetnti mrena
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
